@@ -1,6 +1,6 @@
 == README
 
-Setting up checkie environment:
+=== Setting up checkie environment:
 
 * if you're starting from scratch, setup your dev enviroment according to http://installfest.railsbridge.org
 
@@ -22,9 +22,15 @@ Create dev DB
 
 * "rake db:create" - double check that it succeeded with "rake db:version" which should return 0
 
-Nice to do
+=== Nice to do
 
 * "git config push.default simple" - stops git from complaining when you type "git push"
+
+=== Running specs repeatedly
+
+Use the "rerun" command, which is provided by the rerun gem that's already listed in Gemfile.
+
+* "rerun -p '*.rb' -cx -- rspec"
 
 
 [*] Without these commands, you won't be able to install the nokogiri gem http://stackoverflow.com/questions/5528839/why-does-installing-nokogiri-on-mac-os-fail-with-libiconv-is-missing
