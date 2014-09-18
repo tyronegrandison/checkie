@@ -11,3 +11,5 @@ Setting up checkie environment:
 * "brew install libiconv" - nokogiri requires libiconv and nokogiri is needed for parsing XML
 
 * "brew install postgresql" - we're using postgresql on both dev & prod
+
+* "bundle" to install the correct gems
