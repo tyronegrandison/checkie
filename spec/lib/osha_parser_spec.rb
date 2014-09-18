@@ -12,16 +12,16 @@ describe OshaParser do
 
     ent = entries.first
     expect(ent[:estab_name]).to eq("UNCLE BILL'S PANCAKE HOUSE")
-    expect(ent[:site_address  <d:site_address>3425 S. KINGSHIGHWAY</d:site_address>
+    expect(ent[:site_address]).to eq('3425 S. KINGSHIGHWAY')
     expect(ent[:site_city]).to eq("ST. LOUIS")
     expect(ent[:site_state]).to eq('MO')
-    expect(ent[:naics_code]).to eq(722110)
+    expect(ent[:naics_code]).to eq('722110')
     expect(ent[:insp_type]).to eq("C")
     expect(ent[:open_date]).to eq("2008-05-07T00:00:00")
-    expect(ent[:total_current_penalty]).to eq(null)
+    expect(ent[:total_current_penalty]).to eq(nil)
     expect(ent[:osha_violation_indicator]).to eq(false)
-    expect(ent[:serious_violations]).to eq(true) />
-    expect(ent[:total_violations]).to eq(true) />
+    expect(ent[:serious_violations]).to eq(true)
+    expect(ent[:total_violations]).to eq(true)
     expect(ent[:load_dt]).to ("2014-09-18T01:16:08.004584")
     
   end
