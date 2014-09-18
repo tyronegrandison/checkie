@@ -17,12 +17,12 @@ describe OshaParser do
     expect(ent[:site_state]).to eq('MO')
     expect(ent[:naics_code]).to eq('722110')
     expect(ent[:insp_type]).to eq("C")
-    expect(ent[:open_date]).to eq("2008-05-07T00:00:00")
-    expect(ent[:total_current_penalty]).to eq(nil)
+    expect(ent[:open_date]).to eq(Time.parse '"2008-05-07T00:00:00"')
+    expect(ent[:total_current_penalty]).to eq(0)
     expect(ent[:osha_violation_indicator]).to eq(false)
-    expect(ent[:serious_violations]).to eq(true)
-    expect(ent[:total_violations]).to eq(true)
-    expect(ent[:load_dt]).to ("2014-09-18T01:16:08.004584")
+    expect(ent[:serious_violations]).to eq(0)
+    expect(ent[:total_violations]).to eq(0)
+    expect(ent[:load_dt]).to eq(Time.parse "2014-09-18T01:16:08.004584")
     
   end
 
