@@ -10,6 +10,17 @@ Setting up checkie environment:
 
 * "brew install libiconv" - nokogiri requires libiconv and nokogiri is needed for parsing XML
 
+* "brew link --force libiconv" [*]
+
+* "gem install nokogiri -- --with-iconv-dir=/usr/local/Cellar/libiconv" [*]
+
 * "brew install postgresql" - we're using postgresql on both dev & prod
 
 * "bundle" to install the correct gems
+
+Create dev DB
+
+* "rake db:create" - double check that it succeeded with "rake db:version" which should return 0
+
+
+[*] Without these commands, you won't be able to install the nokogiri gem http://stackoverflow.com/questions/5528839/why-does-installing-nokogiri-on-mac-os-fail-with-libiconv-is-missing
