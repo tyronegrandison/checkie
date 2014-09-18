@@ -1,0 +1,2808 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://api.dol.gov/V1/Compliance/OSHA/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">full</title>
+  <id>http://api.dol.gov/V1/Compliance/OSHA/full</id>
+  <updated>2014-09-18T13:34:20Z</updated>
+  <link rel="self" title="full" href="full" />
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(31224892)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(31224892)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">31224892</d:activity_nr>
+        <d:estab_name>UNCLE BILL'S PANCAKE HOUSE</d:estab_name>
+        <d:site_address>3425 S. KINGSHIGHWAY</d:site_address>
+        <d:site_city>ST. LOUIS</d:site_city>
+        <d:site_zip>63139</d:site_zip>
+        <d:site_state>MO</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-05-07T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(100763127)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(100763127)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">100763127</d:activity_nr>
+        <d:estab_name>STAPLES INC DBA STAPLES STORE #1349</d:estab_name>
+        <d:site_address>2955 NEW CENTER POINT- 1ST &amp; MAIN TOWN CENTER</d:site_address>
+        <d:site_city>COLORADO SPRINGS</d:site_city>
+        <d:site_zip>80922</d:site_zip>
+        <d:site_state>CO</d:site_state>
+        <d:naics_code>453210</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-04-16T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(106352586)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(106352586)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">106352586</d:activity_nr>
+        <d:estab_name>CARPET MASTERS</d:estab_name>
+        <d:site_address>BUILDING 25017 ROTA HALL DORM</d:site_address>
+        <d:site_city>ANDERSEN AFB</d:site_city>
+        <d:site_zip>96929</d:site_zip>
+        <d:site_state>GU</d:site_state>
+        <d:naics_code>442210</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-04-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">2295</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">8</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(106352826)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(106352826)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">106352826</d:activity_nr>
+        <d:estab_name>UNITED FISHERIES CORPORATION</d:estab_name>
+        <d:site_address>1052 CABRAS HWY.</d:site_address>
+        <d:site_city>PITI</d:site_city>
+        <d:site_zip>96925</d:site_zip>
+        <d:site_state>GU</d:site_state>
+        <d:naics_code>445220</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-04-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">159</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(106353048)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(106353048)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">106353048</d:activity_nr>
+        <d:estab_name>NAPA</d:estab_name>
+        <d:site_address>1790 ROUTE 16</d:site_address>
+        <d:site_city>DEDEDO</d:site_city>
+        <d:site_zip>96929</d:site_zip>
+        <d:site_state>GU</d:site_state>
+        <d:naics_code>441310</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-05-05T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">2200</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">2</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(106353147)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(106353147)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">106353147</d:activity_nr>
+        <d:estab_name>BENSON</d:estab_name>
+        <d:site_address>779 ROUTE 8</d:site_address>
+        <d:site_city>MONG MONG</d:site_city>
+        <d:site_zip>96910</d:site_zip>
+        <d:site_state>GU</d:site_state>
+        <d:naics_code>444130</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-05-06T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1050</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">2</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">4</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109174979)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109174979)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109174979</d:activity_nr>
+        <d:estab_name>TA OPERATING LLC DBA TRAVEL CENTERS OF AMERICA</d:estab_name>
+        <d:site_address>4 INDUSTRIAL DRIVE</d:site_address>
+        <d:site_city>BRANFORD</d:site_city>
+        <d:site_zip>06405</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-01-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5000</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">6</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109177238)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109177238)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109177238</d:activity_nr>
+        <d:estab_name>FARMERS MARKET LLC DBA LUCY'S KITCHEN</d:estab_name>
+        <d:site_address>2445 BLACK ROCK TURNPIKE</d:site_address>
+        <d:site_city>FAIRFIELD</d:site_city>
+        <d:site_zip>06825</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-07-17T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109177402)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109177402)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109177402</d:activity_nr>
+        <d:estab_name>YOUNG FLAN LLC DBA AVENUE AWARDS &amp; APPAREL</d:estab_name>
+        <d:site_address>92 D BRIDGEPORT AVENUE</d:site_address>
+        <d:site_city>MILFORD</d:site_city>
+        <d:site_zip>06460</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>453998</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-10-29T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109177493)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109177493)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109177493</d:activity_nr>
+        <d:estab_name>MINCHIN BUICK PONTIAC GMC TRUCK INC.</d:estab_name>
+        <d:site_address>131 JEFFERSON STREET</d:site_address>
+        <d:site_city>STAMFORD</d:site_city>
+        <d:site_zip>06902</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>441110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-02-19T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1200</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">6</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109177568)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109177568)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109177568</d:activity_nr>
+        <d:estab_name>SEARS, ROEBUCK &amp; COMPANY STORE #7633</d:estab_name>
+        <d:site_address>190 FRONTAGE ROAD</d:site_address>
+        <d:site_city>WEST HAVEN</d:site_city>
+        <d:site_zip>06516</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>443111</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-03-13T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">2100</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">4</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109177790)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109177790)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109177790</d:activity_nr>
+        <d:estab_name>BLUE ROCK CONST. LLC</d:estab_name>
+        <d:site_address>11 MARJORIE DRIVE</d:site_address>
+        <d:site_city>NORTH BRANFORD</d:site_city>
+        <d:site_zip>06472</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>444220</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-04-16T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1500</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109177832)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109177832)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109177832</d:activity_nr>
+        <d:estab_name>RENO'S PIZZA LLC</d:estab_name>
+        <d:site_address>89 BOSTON POST ROAD</d:site_address>
+        <d:site_city>ORANGE</d:site_city>
+        <d:site_zip>06477</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-05-12T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">3</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">3</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109179275)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109179275)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109179275</d:activity_nr>
+        <d:estab_name>BEST WESTERN-STONY CREEK INN</d:estab_name>
+        <d:site_address>3 BUSINESS PARK DRIVE</d:site_address>
+        <d:site_city>BRANFORD</d:site_city>
+        <d:site_zip>06405</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>721110</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-07-07T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5500</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">4</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109179697)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109179697)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109179697</d:activity_nr>
+        <d:estab_name>BON APPETIT MANAGEMENT COMPANY</d:estab_name>
+        <d:site_address>WESLEYAN UNIVERSITY, 45 WYLLYS AVENUE</d:site_address>
+        <d:site_city>MIDDLETOWN</d:site_city>
+        <d:site_zip>06457</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>722310</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-10-03T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109179812)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109179812)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109179812</d:activity_nr>
+        <d:estab_name>LANDON LUMBER COMPANY</d:estab_name>
+        <d:site_address>134 BOSTON POST ROAD</d:site_address>
+        <d:site_city>MADISON</d:site_city>
+        <d:site_zip>06443</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>I</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-12-11T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1500</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">5</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109179853)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109179853)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109179853</d:activity_nr>
+        <d:estab_name>FAIRFIELD STONE &amp; LANDSCAPE SUPPLY LLC</d:estab_name>
+        <d:site_address>545 PEPPER STREET</d:site_address>
+        <d:site_city>MONROE</d:site_city>
+        <d:site_zip>06468</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>444220</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-01-06T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">725</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109180562)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109180562)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109180562</d:activity_nr>
+        <d:estab_name>DOLLAR TREE STORES INCORPORATED</d:estab_name>
+        <d:site_address>689 WEST MAIN STREET</d:site_address>
+        <d:site_city>BRANFORD</d:site_city>
+        <d:site_zip>06405</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>452990</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-08-19T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5000</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109180646)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109180646)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109180646</d:activity_nr>
+        <d:estab_name>PORTO'S TIRE SERVICE INCORPORATED</d:estab_name>
+        <d:site_address>2490 STATE STREET</d:site_address>
+        <d:site_city>HAMDEN</d:site_city>
+        <d:site_zip>06514</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>441320</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-11-04T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">18360</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">17</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109180679)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109180679)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109180679</d:activity_nr>
+        <d:estab_name>MILFORD AUTO GROUP INCORPORATED</d:estab_name>
+        <d:site_address>1470 BOSTON POST ROAD</d:site_address>
+        <d:site_city>MILFORD</d:site_city>
+        <d:site_zip>06460</d:site_zip>
+        <d:site_state>CT</d:site_state>
+        <d:naics_code>441110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-11-08T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1071</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">3</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(109332866)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(109332866)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">109332866</d:activity_nr>
+        <d:estab_name>HORNET BICYCLES &amp; SPORTING GOODS</d:estab_name>
+        <d:site_address>CORE PACIFIC BLDG, 545 CHALAN SAN ANTONIO RD.,</d:site_address>
+        <d:site_city>TAMUNING</d:site_city>
+        <d:site_zip>96913</d:site_zip>
+        <d:site_state>GU</d:site_state>
+        <d:naics_code>453998</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-03-16T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">3000</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">3</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(110485208)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(110485208)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">110485208</d:activity_nr>
+        <d:estab_name>KING SOOPERS  #65</d:estab_name>
+        <d:site_address>101 ENGLEWOOD PARKWAY</d:site_address>
+        <d:site_city>ENGLEWOOD</d:site_city>
+        <d:site_zip>80110</d:site_zip>
+        <d:site_state>CO</d:site_state>
+        <d:naics_code>445110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-11-06T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(110485679)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(110485679)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">110485679</d:activity_nr>
+        <d:estab_name>HOME DEPOT USA INC DBA HOME DEPOT #1502</d:estab_name>
+        <d:site_address>5215 WADSWORTH BYPASS</d:site_address>
+        <d:site_city>ARVADA</d:site_city>
+        <d:site_zip>80339</d:site_zip>
+        <d:site_state>CO</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-03-04T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(110486321)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(110486321)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">110486321</d:activity_nr>
+        <d:estab_name>FEDERAL LUMBER COMPANY INC. DBA PONDEROSA DIB HOME</d:estab_name>
+        <d:site_address>2435 EAGLE DRIVE</d:site_address>
+        <d:site_city>PAGOSA SPRINGS</d:site_city>
+        <d:site_zip>81147</d:site_zip>
+        <d:site_state>CO</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-07-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">3680</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">16</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(110486776)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(110486776)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">110486776</d:activity_nr>
+        <d:estab_name>SLAVENS, INC.</d:estab_name>
+        <d:site_address>237 W. MAIN STREET</d:site_address>
+        <d:site_city>CORTEZ</d:site_city>
+        <d:site_zip>81321</d:site_zip>
+        <d:site_state>CO</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-01-05T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">8040</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">11</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(110546090)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(110546090)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">110546090</d:activity_nr>
+        <d:estab_name>MERLINOS' BELVEDERE</d:estab_name>
+        <d:site_address>1330 ELM AVE</d:site_address>
+        <d:site_city>CANON CITY</d:site_city>
+        <d:site_zip>81212</d:site_zip>
+        <d:site_state>CO</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-01-08T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">200</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">2</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112520184)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112520184)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112520184</d:activity_nr>
+        <d:estab_name>SUNDAY RIVER SKI RESORT</d:estab_name>
+        <d:site_address>SUNDAY RIVER ROAD</d:site_address>
+        <d:site_city>NEWRY</d:site_city>
+        <d:site_zip>04261</d:site_zip>
+        <d:site_state>ME</d:site_state>
+        <d:naics_code>721199</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-01-10T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1000</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">3</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112520192)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112520192)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112520192</d:activity_nr>
+        <d:estab_name>MID MAINE CPL LLC</d:estab_name>
+        <d:site_address>20 FORRESTAL STREET</d:site_address>
+        <d:site_city>LEWISTON</d:site_city>
+        <d:site_zip>04240</d:site_zip>
+        <d:site_state>ME</d:site_state>
+        <d:naics_code>445291</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-01-17T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1138</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">3</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112524822)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112524822)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112524822</d:activity_nr>
+        <d:estab_name>HANCOCK LUMBER</d:estab_name>
+        <d:site_address>FORE STREET</d:site_address>
+        <d:site_city>PORTLAND</d:site_city>
+        <d:site_zip>04101</d:site_zip>
+        <d:site_state>ME</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-02-25T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">2400</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112525704)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112525704)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112525704</d:activity_nr>
+        <d:estab_name>KEVIN INC.</d:estab_name>
+        <d:site_address>301 U. S. ROUTE 1</d:site_address>
+        <d:site_city>KITTERY</d:site_city>
+        <d:site_zip>03904</d:site_zip>
+        <d:site_state>ME</d:site_state>
+        <d:naics_code>451110</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-09-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">675</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112526116)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112526116)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112526116</d:activity_nr>
+        <d:estab_name>KAMCO SUPPLY CORP. OF BOSTON</d:estab_name>
+        <d:site_address>FRONT STREET</d:site_address>
+        <d:site_city>BATH</d:site_city>
+        <d:site_zip>04530</d:site_zip>
+        <d:site_state>ME</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-12-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1950</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">2</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112526934)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112526934)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112526934</d:activity_nr>
+        <d:estab_name>THE GRANITE GROUP</d:estab_name>
+        <d:site_address>147 ST. JOHNS STREET</d:site_address>
+        <d:site_city>PORTLAND</d:site_city>
+        <d:site_zip>04101</d:site_zip>
+        <d:site_state>ME</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-05-28T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112527577)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112527577)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112527577</d:activity_nr>
+        <d:estab_name>HANCOCK LUMBER COMPANY</d:estab_name>
+        <d:site_address>6 NOBLE STREET</d:site_address>
+        <d:site_city>BRUNSWICK</d:site_city>
+        <d:site_zip>04011</d:site_zip>
+        <d:site_state>ME</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>C</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-01-07T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">2100</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112665203)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112665203)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112665203</d:activity_nr>
+        <d:estab_name>WAL-MART SUPERCENTER</d:estab_name>
+        <d:site_address>5370 ALLENTOWN PIKE</d:site_address>
+        <d:site_city>TEMPLE</d:site_city>
+        <d:site_zip>19560</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>452111</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-05-22T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112665773)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112665773)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112665773</d:activity_nr>
+        <d:estab_name>LOWE'S HOME CENTERS, INCORPORATED</d:estab_name>
+        <d:site_address>25 ROHRERSTOWN ROAD</d:site_address>
+        <d:site_city>LANCASTER</d:site_city>
+        <d:site_zip>17603</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-09-04T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112665781)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112665781)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112665781</d:activity_nr>
+        <d:estab_name>LOWE'S HOME CENTERS, INCORPORATED</d:estab_name>
+        <d:site_address>5500 CARLISLE PIKE</d:site_address>
+        <d:site_city>MECHANICSBURG</d:site_city>
+        <d:site_zip>17050</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-08-26T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112667894)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112667894)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112667894</d:activity_nr>
+        <d:estab_name>PEEBLES DEPARTMENT STORE #5058</d:estab_name>
+        <d:site_address>1275 YORK ROAD SUITE #2</d:site_address>
+        <d:site_city>GETTYSBURG</d:site_city>
+        <d:site_zip>17325</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>448140</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-03-13T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112896782)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112896782)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112896782</d:activity_nr>
+        <d:estab_name>LOWE'S COMPANIES, INCORPORATED</d:estab_name>
+        <d:site_address>1755 QUENTIN ROAD</d:site_address>
+        <d:site_city>LEBANON</d:site_city>
+        <d:site_zip>17042</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-07-31T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">487.5</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112902986)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112902986)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112902986</d:activity_nr>
+        <d:estab_name>CLARK'S BOSTONIAN OUTLET</d:estab_name>
+        <d:site_address>BROADWAY &amp; CENTER SQUARE</d:site_address>
+        <d:site_city>HANOVER</d:site_city>
+        <d:site_zip>17331</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>448210</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-06-01T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">910</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112903067)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112903067)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112903067</d:activity_nr>
+        <d:estab_name>VF OUTLET</d:estab_name>
+        <d:site_address>801 HILL AVENUE</d:site_address>
+        <d:site_city>WYOMISSING</d:site_city>
+        <d:site_zip>19610</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>448140</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-05-04T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112903554)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112903554)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112903554</d:activity_nr>
+        <d:estab_name>DAYS INN - SHILLINGTON</d:estab_name>
+        <d:site_address>2299 LANCASTER PIKE</d:site_address>
+        <d:site_city>READING</d:site_city>
+        <d:site_zip>19607</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>721110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-01-31T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(112985098)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(112985098)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">112985098</d:activity_nr>
+        <d:estab_name>HOLLISTER COMPANY</d:estab_name>
+        <d:site_address>YORK GALLERIA MALL, 2899 WHITEFORD ROAD, #649</d:site_address>
+        <d:site_city>YORK</d:site_city>
+        <d:site_zip>17402</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>448190</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-01-29T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1470</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">2</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113176226)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113176226)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113176226</d:activity_nr>
+        <d:estab_name>LOWE'S</d:estab_name>
+        <d:site_address>1930 KEYSTONE DR. STE. 2</d:site_address>
+        <d:site_city>ERIE</d:site_city>
+        <d:site_zip>16509</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-10-16T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113176341)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113176341)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113176341</d:activity_nr>
+        <d:estab_name>OFFICE DEPOT</d:estab_name>
+        <d:site_address>1920 EDINBORO RD.</d:site_address>
+        <d:site_city>ERIE</d:site_city>
+        <d:site_zip>16565</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>453210</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-07-18T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">210</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113176549)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113176549)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113176549</d:activity_nr>
+        <d:estab_name>HAMPTON INN HOTEL</d:estab_name>
+        <d:site_address>INDUSTRIAL PARK ROAD</d:site_address>
+        <d:site_city>CLEARFIELD</d:site_city>
+        <d:site_zip>16830</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>721110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-08-12T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113176580)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113176580)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113176580</d:activity_nr>
+        <d:estab_name>HOVIS AUTO AND TRUCK SUPPLY</d:estab_name>
+        <d:site_address>427 S CASCADE ST.</d:site_address>
+        <d:site_city>NEW CASTLE</d:site_city>
+        <d:site_zip>16101</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>441310</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-08-05T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5000</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">11</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113177927)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113177927)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113177927</d:activity_nr>
+        <d:estab_name>LUMBERJACKS STEAKHOUSE</d:estab_name>
+        <d:site_address>102 MAIN STREET</d:site_address>
+        <d:site_city>RIDGWAY</d:site_city>
+        <d:site_zip>15853</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>F</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-06-18T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">4400</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">3</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113178008)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113178008)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113178008</d:activity_nr>
+        <d:estab_name>JIFFY MINI MART</d:estab_name>
+        <d:site_address>850 FRANKLIN ROAD</d:site_address>
+        <d:site_city>JACKSON CENTER</d:site_city>
+        <d:site_zip>16133</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>722310</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-06-25T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1400</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">6</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113738025)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113738025)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113738025</d:activity_nr>
+        <d:estab_name>LOWE'S HOME CENTERS, INCORPORATED</d:estab_name>
+        <d:site_address>12925 WASHINGTON TOWNSHIP BOULEVARD</d:site_address>
+        <d:site_city>WAYNESBORO</d:site_city>
+        <d:site_zip>17268</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-04-22T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113738611)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113738611)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113738611</d:activity_nr>
+        <d:estab_name>T.G.I. FRIDAY'S</d:estab_name>
+        <d:site_address>983 NORLAND AVENUE</d:site_address>
+        <d:site_city>CHAMBERSBURG</d:site_city>
+        <d:site_zip>17201</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-09-01T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">785</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113739437)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113739437)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113739437</d:activity_nr>
+        <d:estab_name>HOME DEPOT USA, INCORPORATED</d:estab_name>
+        <d:site_address>801 EAST WALNUT STREET, STORE #4141</d:site_address>
+        <d:site_city>LEBANON</d:site_city>
+        <d:site_zip>17042</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-10-06T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5500</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">2</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(113744114)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(113744114)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">113744114</d:activity_nr>
+        <d:estab_name>RITE AID</d:estab_name>
+        <d:site_address>525 PENN AVENUE</d:site_address>
+        <d:site_city>WEST READING</d:site_city>
+        <d:site_zip>19611</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>446110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-05-29T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116022583)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116022583)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116022583</d:activity_nr>
+        <d:estab_name>WATER WORKS RESTAURANT</d:estab_name>
+        <d:site_address>640 WATER WORKS DRIVE</d:site_address>
+        <d:site_city>PHILADELPHIA</d:site_city>
+        <d:site_zip>19130</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-07-30T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">875</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">3</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116022658)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116022658)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116022658</d:activity_nr>
+        <d:estab_name>GPM INVESTMENTS, LLC. D/B/A SHORE STOP</d:estab_name>
+        <d:site_address>6600 ESSINGTON AVE.</d:site_address>
+        <d:site_city>PHILADELPHIA</d:site_city>
+        <d:site_zip>19153</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>447110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-12-22T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">450</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116022666)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116022666)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116022666</d:activity_nr>
+        <d:estab_name>SUBWAY</d:estab_name>
+        <d:site_address>18TH &amp; JFK BOULEVARD</d:site_address>
+        <d:site_city>PHILADELPHIA</d:site_city>
+        <d:site_zip>19103</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>446110</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-12-02T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116022682)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116022682)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116022682</d:activity_nr>
+        <d:estab_name>HOLIDAY INN HISTORIC DISTRICT PHILADELPHIA</d:estab_name>
+        <d:site_address>400 ARCH ST.</d:site_address>
+        <d:site_city>PHILADELPHIA</d:site_city>
+        <d:site_zip>19106</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>721110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-09-12T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116024472)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116024472)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116024472</d:activity_nr>
+        <d:estab_name>BOSTON MARKET</d:estab_name>
+        <d:site_address>9113 ROOSEVELT BOULEVARD</d:site_address>
+        <d:site_city>PHILADELPHIA</d:site_city>
+        <d:site_zip>19114</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>722212</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-03-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116024548)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116024548)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116024548</d:activity_nr>
+        <d:estab_name>ROSS DRESS FOR LESS</d:estab_name>
+        <d:site_address>109 E. SWEDESFORD RD.</d:site_address>
+        <d:site_city>EXTON</d:site_city>
+        <d:site_zip>19341</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>448140</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-08-13T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116052861)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116052861)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116052861</d:activity_nr>
+        <d:estab_name>WOODS GROCERY STORE</d:estab_name>
+        <d:site_address>2232 S MAIN ST</d:site_address>
+        <d:site_city>FORT SCOTT</d:site_city>
+        <d:site_zip>66701</d:site_zip>
+        <d:site_state>KS</d:site_state>
+        <d:naics_code>445110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-02-03T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116052960)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116052960)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116052960</d:activity_nr>
+        <d:estab_name>GOODWILL INDUSTRIES</d:estab_name>
+        <d:site_address>2208 S. PRINCETON CIRCLE DR</d:site_address>
+        <d:site_city>OTTAWA</d:site_city>
+        <d:site_zip>66067</d:site_zip>
+        <d:site_state>KS</d:site_state>
+        <d:naics_code>453310</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-03-19T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">16500</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">11</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">4</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116053091)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116053091)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116053091</d:activity_nr>
+        <d:estab_name>HARLEY DAVIDSON</d:estab_name>
+        <d:site_address>2047 SW TOPEKA BLVD</d:site_address>
+        <d:site_city>TOPEKA</d:site_city>
+        <d:site_zip>66608</d:site_zip>
+        <d:site_state>KS</d:site_state>
+        <d:naics_code>441221</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-03-18T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">1750</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">6</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116053125)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116053125)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116053125</d:activity_nr>
+        <d:estab_name>PRAIRIE POINT</d:estab_name>
+        <d:site_address>7341 QUIVIRA ROAD</d:site_address>
+        <d:site_city>SHAWNEE</d:site_city>
+        <d:site_zip>66216</d:site_zip>
+        <d:site_state>KS</d:site_state>
+        <d:naics_code>451130</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-04-09T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116053901)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116053901)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116053901</d:activity_nr>
+        <d:estab_name>PRICE CHOPPER</d:estab_name>
+        <d:site_address>7734 STATE AVE</d:site_address>
+        <d:site_city>KANSAS CITY</d:site_city>
+        <d:site_zip>66112</d:site_zip>
+        <d:site_state>KS</d:site_state>
+        <d:naics_code>445110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-01-19T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">3</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116053976)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116053976)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116053976</d:activity_nr>
+        <d:estab_name>KANSAS CITY PETERBILT, INC.</d:estab_name>
+        <d:site_address>8915 WOODEND</d:site_address>
+        <d:site_city>KANSAS CITY</d:site_city>
+        <d:site_zip>66111</d:site_zip>
+        <d:site_state>KS</d:site_state>
+        <d:naics_code>441229</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-12-17T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5775</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">10</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">3</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116053984)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116053984)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116053984</d:activity_nr>
+        <d:estab_name>HOME DEPOT USA</d:estab_name>
+        <d:site_address>1910 W 31ST ST</d:site_address>
+        <d:site_city>LAWRENCE</d:site_city>
+        <d:site_zip>66044</d:site_zip>
+        <d:site_state>KS</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-01-13T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116211269)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116211269)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116211269</d:activity_nr>
+        <d:estab_name>LEZZER LUMBER CORPORATION</d:estab_name>
+        <d:site_address>2008 MARIETTA AVENUE</d:site_address>
+        <d:site_city>LANCASTER</d:site_city>
+        <d:site_zip>17603</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-05-17T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">3410</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">3</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">0</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116211327)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116211327)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116211327</d:activity_nr>
+        <d:estab_name>TRIANGLE BUILDING SUPPLIES</d:estab_name>
+        <d:site_address>1076 EAST BISHOP STREET</d:site_address>
+        <d:site_city>BELLEFONTE</d:site_city>
+        <d:site_zip>16823</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-07-22T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">2080</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">4</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116215476)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116215476)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116215476</d:activity_nr>
+        <d:estab_name>BOSCOV'S DEPARTMENT STORE</d:estab_name>
+        <d:site_address>4500 PERKIOMEN AVENUE</d:site_address>
+        <d:site_city>READING</d:site_city>
+        <d:site_zip>19606</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>452111</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-02-22T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">3825</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">2</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116215849)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116215849)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116215849</d:activity_nr>
+        <d:estab_name>COMMERCIAL INTERIOR &amp; EXTERIOR SUPPLY CO., INC.</d:estab_name>
+        <d:site_address>109 MILLER'S LANE</d:site_address>
+        <d:site_city>HARRISBURG</d:site_city>
+        <d:site_zip>17110</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-03-25T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116215971)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116215971)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116215971</d:activity_nr>
+        <d:estab_name>GOOD'S STORE</d:estab_name>
+        <d:site_address>1686 WEST MAIN STREET</d:site_address>
+        <d:site_city>EPHRATA</d:site_city>
+        <d:site_zip>17522</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>452111</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-02-28T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5265</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">5</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116215997)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116215997)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116215997</d:activity_nr>
+        <d:estab_name>A DOLLAR</d:estab_name>
+        <d:site_address>1 YORK GALLERIA</d:site_address>
+        <d:site_city>YORK</d:site_city>
+        <d:site_zip>17402</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>452111</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-03-20T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116216011)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116216011)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116216011</d:activity_nr>
+        <d:estab_name>PEEBLES DEPARTMENT STORE</d:estab_name>
+        <d:site_address>1061 NORTH FRONT STREET, SUITE 4</d:site_address>
+        <d:site_city>PHILIPSBURG</d:site_city>
+        <d:site_zip>16866</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>448140</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-03-21T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116216201)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116216201)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116216201</d:activity_nr>
+        <d:estab_name>LOWE'S HOME CENTERS, INCORPORATED</d:estab_name>
+        <d:site_address>1600 LINCOLN WAY EAST</d:site_address>
+        <d:site_city>CHAMBERSBURG</d:site_city>
+        <d:site_zip>17201</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-01-25T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116216383)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116216383)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116216383</d:activity_nr>
+        <d:estab_name>MILLER AUTO PARTS &amp; SUPPLY COMPANY, INCORPORATED</d:estab_name>
+        <d:site_address>10151 FAIRGROUNDS ROAD</d:site_address>
+        <d:site_city>HUNTINGDON</d:site_city>
+        <d:site_zip>16652</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>441310</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-10-26T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">2885</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">4</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116216870)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116216870)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116216870</d:activity_nr>
+        <d:estab_name>LOWE'S HOME CENTERS, INCORPORATED</d:estab_name>
+        <d:site_address>10472 US HIGHWAY 522 SOUTH</d:site_address>
+        <d:site_city>LEWISTOWN</d:site_city>
+        <d:site_zip>17044</d:site_zip>
+        <d:site_state>PA</d:site_state>
+        <d:naics_code>444110</d:naics_code>
+        <d:insp_type>H</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2009-04-09T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(116498874)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(116498874)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">116498874</d:activity_nr>
+        <d:estab_name>APPLEBEES</d:estab_name>
+        <d:site_address>129 JEFFERSON CROSSING WAY</d:site_address>
+        <d:site_city>CHARLES TOWN</d:site_city>
+        <d:site_zip>25414</d:site_zip>
+        <d:site_state>WV</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2008-07-31T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119680197)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119680197)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119680197</d:activity_nr>
+        <d:estab_name>DAYLIGHT FOODS, INC</d:estab_name>
+        <d:site_address>660 VISTA WAY</d:site_address>
+        <d:site_city>MILPITAS</d:site_city>
+        <d:site_zip>95035</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>445230</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-06-21T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5850</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">3</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119917151)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119917151)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119917151</d:activity_nr>
+        <d:estab_name>SHASTA AUTO SUPPLY</d:estab_name>
+        <d:site_address>108 W CASTLE ST</d:site_address>
+        <d:site_city>MOUNT SHASTA</d:site_city>
+        <d:site_zip>96067</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>441310</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-03-10T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">260</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">2</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119917433)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119917433)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119917433</d:activity_nr>
+        <d:estab_name>POLKA DOT, THE</d:estab_name>
+        <d:site_address>2043 HWY 70</d:site_address>
+        <d:site_city>QUINCY</d:site_city>
+        <d:site_zip>95971</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-06-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">215</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119917631)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119917631)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119917631</d:activity_nr>
+        <d:estab_name>A&amp;G PIZZA GUYS INC DBA PIZZA GUYS #149</d:estab_name>
+        <d:site_address>2471 COHASSET RD</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95926</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-06-23T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119917995)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119917995)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119917995</d:activity_nr>
+        <d:estab_name>ECMD</d:estab_name>
+        <d:site_address>4722 SKYWAY DR</d:site_address>
+        <d:site_city>OLIVEHURST</d:site_city>
+        <d:site_zip>95961</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-11-04T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918019)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918019)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918019</d:activity_nr>
+        <d:estab_name>SIERRA PACIFIC INDUSTRIES</d:estab_name>
+        <d:site_address>1538 LEE RD</d:site_address>
+        <d:site_city>QUINCY</d:site_city>
+        <d:site_zip>95971</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-08-05T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918068)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918068)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918068</d:activity_nr>
+        <d:estab_name>MCDONALD'S</d:estab_name>
+        <d:site_address>445 ORO DAM BLVD EAST</d:site_address>
+        <d:site_city>OROVILLE</d:site_city>
+        <d:site_zip>95965</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-08-06T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918134)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918134)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918134</d:activity_nr>
+        <d:estab_name>RANDY SMITH PRODUCE</d:estab_name>
+        <d:site_address>60 W LIBERTY RD</d:site_address>
+        <d:site_city>GRIDLEY</d:site_city>
+        <d:site_zip>95948</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>445230</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2010-12-01T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">220</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918274)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918274)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918274</d:activity_nr>
+        <d:estab_name>SAFEWAY INC 0302-8</d:estab_name>
+        <d:site_address>6020 CLARK RD</d:site_address>
+        <d:site_city>PARADISE</d:site_city>
+        <d:site_zip>95967</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>445110</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-01-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918316)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918316)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918316</d:activity_nr>
+        <d:estab_name>AMERIGAS</d:estab_name>
+        <d:site_address>775 SUTTER ST</d:site_address>
+        <d:site_city>YUBA CITY</d:site_city>
+        <d:site_zip>95992</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>454312</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-01-25T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918480)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918480)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918480</d:activity_nr>
+        <d:estab_name>CHICO POWER EQUIPMENT INC</d:estab_name>
+        <d:site_address>2795 ESPLANADE</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95973</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>453998</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-04-22T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">5000</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918639)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918639)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918639</d:activity_nr>
+        <d:estab_name>ECMD INC</d:estab_name>
+        <d:site_address>4722 SKYWAY DR</d:site_address>
+        <d:site_city>OLIVEHURST</d:site_city>
+        <d:site_zip>95961</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>444190</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-06-20T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918670)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918670)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918670</d:activity_nr>
+        <d:estab_name>CHICO FOODS LLC DBA JACK IN THE BOX 549</d:estab_name>
+        <d:site_address>2542 ESPLANADE</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95926</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-06-22T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119918852)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119918852)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119918852</d:activity_nr>
+        <d:estab_name>STARBUCKS COFFEE CO #5252</d:estab_name>
+        <d:site_address>246 BROADWAY ST</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95926</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722213</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-06-14T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919025)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919025)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919025</d:activity_nr>
+        <d:estab_name>MCDONALD'S</d:estab_name>
+        <d:site_address>445 ORO DAM BLVD EAST</d:site_address>
+        <d:site_city>OROVILLE</d:site_city>
+        <d:site_zip>95965</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-07-15T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919116)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919116)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919116</d:activity_nr>
+        <d:estab_name>RIEBE'S AUTO PARTS</d:estab_name>
+        <d:site_address>175 E 20TH ST</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95928</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>441310</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-08-29T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919173)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919173)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919173</d:activity_nr>
+        <d:estab_name>SONIC #6075</d:estab_name>
+        <d:site_address>500 ORO DAM BLVD</d:site_address>
+        <d:site_city>OROVILLE</d:site_city>
+        <d:site_zip>95965</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722211</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-09-08T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919207)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919207)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919207</d:activity_nr>
+        <d:estab_name>HEEL AND SOLES SHOES</d:estab_name>
+        <d:site_address>708 MANGROVE AVE</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95928</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>448210</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-09-19T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">220</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919348)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919348)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919348</d:activity_nr>
+        <d:estab_name>SAVE MART SUPERMARKETS, STORE #602</d:estab_name>
+        <d:site_address>146 W EAST AVE</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95926</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>445110</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-11-10T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">18500</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919470)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919470)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919470</d:activity_nr>
+        <d:estab_name>JON &amp; BONS YOGURT SHOPPE</d:estab_name>
+        <d:site_address>1722 MANGROVE AVE</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95926</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>445299</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-12-27T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">280</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919488)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919488)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919488</d:activity_nr>
+        <d:estab_name>JON &amp; BONS YOGURT SHOPPE</d:estab_name>
+        <d:site_address>300 BROADWAY ST</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95928</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>445299</d:naics_code>
+        <d:insp_type>B</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2011-12-27T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">280</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">0</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919645)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919645)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919645</d:activity_nr>
+        <d:estab_name>NATURE'S HILIGHTS INC</d:estab_name>
+        <d:site_address>1608 W 5TH ST STE A</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95927</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>722110</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-03-23T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal">3370</d:total_current_penalty>
+        <d:osha_violation_indicator m:type="Edm.Boolean">true</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32">1</d:serious_violations>
+        <d:total_violations m:type="Edm.Int32">1</d:total_violations>
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119919793)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119919793)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119919793</d:activity_nr>
+        <d:estab_name>WALMART STORES INC DC 6026</d:estab_name>
+        <d:site_address>10815 HWY 99 W</d:site_address>
+        <d:site_city>RED BLUFF</d:site_city>
+        <d:site_zip>96080</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>452910</d:naics_code>
+        <d:insp_type>G</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-07-23T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://api.dol.gov/V1/Compliance/OSHA/full(119920197)</id>
+    <title type="text"></title>
+    <updated>2014-09-18T13:34:20Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="full" href="full(119920197)" />
+    <category term="OSHAModel.full" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:activity_nr m:type="Edm.Int32">119920197</d:activity_nr>
+        <d:estab_name>RELIANCE PROPANE SERVICE INC</d:estab_name>
+        <d:site_address>4933 ANITA RD N</d:site_address>
+        <d:site_city>CHICO</d:site_city>
+        <d:site_zip>95973</d:site_zip>
+        <d:site_state>CA</d:site_state>
+        <d:naics_code>454312</d:naics_code>
+        <d:insp_type>A</d:insp_type>
+        <d:open_date m:type="Edm.DateTime">2012-10-30T00:00:00</d:open_date>
+        <d:total_current_penalty m:type="Edm.Decimal" m:null="true" />
+        <d:osha_violation_indicator m:type="Edm.Boolean">false</d:osha_violation_indicator>
+        <d:serious_violations m:type="Edm.Int32" m:null="true" />
+        <d:total_violations m:type="Edm.Int32" m:null="true" />
+        <d:load_dt m:type="Edm.DateTime">2014-09-18T01:16:08.004584</d:load_dt>
+      </m:properties>
+    </content>
+  </entry>
+  <link rel="next" href="http://api.dol.gov/V1/Compliance/OSHA/full?$skiptoken=119920197" />
+</feed>
