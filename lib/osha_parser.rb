@@ -22,12 +22,12 @@ class OshaParser
           osha_violation_indicator: 'true' == prop.xpath('d:osha_violation_indicator').text,
           site_address:  prop.xpath('d:site_address').text,
           naics_code: prop.xpath('d:naics_code').text,
-          insp_type: prop.xpath('d:insp_type:').text,
-          open_date: prop.xpath('d:open_date').text,
-          total_current_penalty: prop.xpath('d:total_current_penalty').text,
-          us_violations: prop.xpath('d:us_violations').text,
-          total_violations: prop.xpath('d:total_violations').text,
-          load_dt: prop.xpath('d:load_dt').text,
+          insp_type: prop.xpath('d:insp_type').text,
+          open_date: Time.parse(prop.xpath('d:open_date').text),
+          total_current_penalty: prop.xpath('d:total_current_penalty').text.to_i,
+          serious_violations: prop.xpath('d:us_violations').text.to_i,
+          total_violations: prop.xpath('d:total_violations').text.to_i,
+          load_dt: Time.parse(prop.xpath('d:load_dt').text),
       }
     end
   end
