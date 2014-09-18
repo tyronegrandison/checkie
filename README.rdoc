@@ -22,5 +22,9 @@ Create dev DB
 
 * "rake db:create" - double check that it succeeded with "rake db:version" which should return 0
 
+Nice to do
+
+* "git config push.default simple" - stops git from complaining when you type "git push"
+
 
 [*] Without these commands, you won't be able to install the nokogiri gem http://stackoverflow.com/questions/5528839/why-does-installing-nokogiri-on-mac-os-fail-with-libiconv-is-missing
