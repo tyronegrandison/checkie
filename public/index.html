@@ -4,12 +4,56 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<body background="bk.jpg">
 
-	<form name="fs" action="" method="get">
+
+	<form name="fs" action="/" method="get">
 		Employer's Name: <input type="text" name="name"><br/>
 		Employer's City: <input type="text" name="city"><br/>
 		Employer's State: <input type="text" name="state"><br/>
 		<input type="submit" value="Search">
 	</form>
+
+    <div id="result"></div>
+
+    	<script type="text/javascript">
+
+            $("#searchForm").submit(function(event) {
+
+                /* stop form from submitting normally */
+                event.preventDefault();
+
+
+				var promise = jQuery.ajax(
+				{
+					url: "/api/am_i_a_fraud",
+					data: {name, $form.attr('name'), city: $form.attr('city'), state: $form.attr('state')}
+				}
+				)
+                
+				promise.success(
+				
+				function(data) {
+				// data is what the API returned
+				// in our case, it’s an object with one field “status” - {status: “found”}
+				// access that field with “data.status”
+				//
+				if (“found” == data.status) {
+					// handle found
+				}
+				else if (“not_found” == data.status) {
+					// …
+				}
+				else if (“non_compliant” == data.status) {
+					
+				}
+				
+				)
+        </script>
+    </body>
+</html>
+
+
+
+
 
 	</body>
 </html>
