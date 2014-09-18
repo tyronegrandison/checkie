@@ -11,9 +11,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 0) do
+ActiveRecord::Schema.define(version: 20140918180603) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "contractors", force: true do |t|
+    t.string   "name"
+    t.string   "site_address"
+    t.string   "site_city"
+    t.string   "site_zip"
+    t.string   "site_state"
+    t.string   "naics_code"
+    t.string   "insp_type"
+    t.datetime "open_date"
+    t.float    "total_current_penalty"
+    t.boolean  "osha_violation_indicator"
+    t.integer  "serious_violations"
+    t.integer  "total_violations"
+    t.datetime "loaded_at"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
 end
