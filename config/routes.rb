@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+
+  get '/api/am_i_a_fraud' => 'api#check_fraud', :as => 'check_fraud'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
