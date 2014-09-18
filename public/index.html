@@ -5,7 +5,7 @@
 	<body background="bk.jpg">
 
 
-	<form name="fs" action="/" method="get">
+	<form name="fs" action="/" method="get" id="searchForm">
 		Employer's Name: <input type="text" name="name"><br/>
 		Employer's City: <input type="text" name="city"><br/>
 		Employer's State: <input type="text" name="state"><br/>
@@ -16,37 +16,36 @@
 
     	<script type="text/javascript">
 
-            $("#searchForm").submit(function(event) {
+        $("#searchForm").submit(function(event) {
+          /* stop form from submitting normally */
+          event.preventDefault();
 
-                /* stop form from submitting normally */
-                event.preventDefault();
+  				var promise = jQuery.ajax(
+  				{
+  					url: "/api/am_i_a_fraud",
+  					data: {name: $("#searchForm").attr('name'), city: $("#searchForm").attr('city'), state: $("#searchForm").attr('state')}
+  				});
 
+          promise.success(
 
-				var promise = jQuery.ajax(
-				{
-					url: "/api/am_i_a_fraud",
-					data: {name, $form.attr('name'), city: $form.attr('city'), state: $form.attr('state')}
-				}
-				)
-                
-				promise.success(
-				
-				function(data) {
-				// data is what the API returned
-				// in our case, it’s an object with one field “status” - {status: “found”}
-				// access that field with “data.status”
-				//
-				if (“found” == data.status) {
-					// handle found
-				}
-				else if (“not_found” == data.status) {
-					// …
-				}
-				else if (“non_compliant” == data.status) {
-					
-				}
-				
-				)
+          function(data) {
+            console.log(data);
+                      // data is what the API returned
+                      // in our case, it’s an object with one field “status” - {status: “found”}
+                      // access that field with “data.status”
+                      
+              if ('found' == data.status) {
+                console.log('found', data);
+              }
+              else if ('not_found' == data.status) {
+               alert("they aren't in the database omg");
+              }
+              else if ('non_compliant' == data.status) {
+                         console.log(data);
+              }
+           }
+          )
+        });
         </script>
     </body>
 </html>
