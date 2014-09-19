@@ -1,24 +1,102 @@
 <!DOCTYPE html>
-<html>
-	<title>Checkie - Tool for Fraud Detection for Federal COntractors</title>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<body background="bk.jpg">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Checkie - Tool for Fraud Detection for Federal Contractors</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
+	<!--link rel="stylesheet/less" href="less/bootstrap.less" type="text/css" /-->
+	<!--link rel="stylesheet/less" href="less/responsive.less" type="text/css" /-->
+	<!--script src="js/less-1.3.3.min.js"></script-->
+	<!--append ‘#!watch’ to the browser URL, then refresh the page. -->
+	
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
 
-	<form name="fs" action="/" method="get" id="searchForm">
-		Employer's Name: <input type="text" name="name"><br/>
-		Employer's City: <input type="text" name="city"><br/>
-		Employer's State: <input type="text" name="state"><br/>
-		<input type="submit" value="Search">
-	</form>
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+  <![endif]-->
 
-    <div id="result"></div>
+  <!-- Fav and touch icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
+  <link rel="shortcut icon" href="img/favicon.png">
+  
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+</head>
 
-    	<script type="text/javascript">
+<body>
+
+<div class="box">
+	<div class="container">
+		<div class="row clearfix">
+			<div class="col-md-12 column">
+			<h2>Welcome to Checkie.</h2>
+				<h3>
+					Please enter the name, city, and state listed on the invoice.
+				</h3>
+			</div>
+		</div>
+		<br />
+		<div class="row clearfix">
+			<div class="col-md-5 column">
+				<form class="form-horizontal" id="searchForm" role="form">
+					<div class="form-group">
+						 <label for="inputEmail3" class="col-sm-2 control-label">Name</label>
+						<div class="col-sm-10">
+							<input type="text" name="name" class="form-control">
+						</div>
+					</div>
+					<div class="form-group">
+						 <label for="inputPassword3" class="col-sm-2 control-label">City</label>
+						<div class="col-sm-10">
+							<input type="text" name="city" class="form-control" >
+						</div>
+					</div>
+					<div class="form-group">
+						 <label for="inputPassword3" class="col-sm-2 control-label">State</label>
+						<div class="col-sm-10">
+							<input type="text" name="state" class="form-control">
+						</div>
+					</div>
+					<div class="form-group">
+						<div class="col-sm-offset-2 col-sm-10">
+							 <button type="submit" class="btn btn-default">Stop Fraud!</button>
+						</div>
+					</div>
+				</form>
+			</div>
+			<div class="col-md-4 column">
+				<img alt="140x140" id = "default" src="http://lorempixel.com/140/140/">
+				<img class="response" id="found" alt="140x140" src="http://www.wpclipart.com/sign_language/thumbs_up_large.png">
+				<img class="response" id="not_found" alt="140x140" src="http://upload.wikimedia.org/wikipedia/commons/a/aa/Empty_set.svg">
+				<img class="response" id="non_compliant" alt="140x140" src="http://www.copower.prosynergy.org/index_clip_image003.gif">
+			</div>
+		</div>
+		<div class="row clearfix">
+			<div class="col-md-4 column">
+			</div>
+			<div class="col-md-4 column">
+			</div>
+			<div class="col-md-4 column">
+			</div>
+		</div>
+	</div>
+
+<script type="text/javascript">
 
         $("#searchForm").submit(function(event) {
           /* stop form from submitting normally */
           event.preventDefault();
+          $('.response').hide();
 
   				var promise = jQuery.ajax(
   				{
@@ -27,32 +105,25 @@
   				});
 
           promise.success(
-
-          function(data) {
-            console.log(data);
-                      // data is what the API returned
-                      // in our case, it’s an object with one field “status” - {status: “found”}
-                      // access that field with “data.status”
-                      
-              if ('found' == data.status) {
-                console.log('found', data);
-              }
-              else if ('not_found' == data.status) {
-               alert("they aren't in the database omg");
-              }
-              else if ('non_compliant' == data.status) {
-                         console.log(data);
-              }
-           }
+	          function(data) {  
+	          	console.log(data);                    
+	            if ('found' == data.status) {
+	              $('#default').hide();
+	              $('#found').show();
+	            }
+	            else if ('not_found' == data.status) {
+	            	alert("they aren't in the database omg");
+	              	$('#default').hide();
+	              	$('#not_found').show();
+	            }
+	            else if ('non_compliant' == data.status) {
+	              	$('#default').hide();
+	              	$('#non_compliant').show();
+	            	}
+	           }
           )
         });
-        </script>
-    </body>
-</html>
-
-
-
-
-
-	</body>
+</script>
+</div>
+</body>
 </html>
