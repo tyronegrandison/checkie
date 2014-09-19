@@ -24,6 +24,8 @@ end
 group :production do
   # Use jquery as the JavaScript library
   gem 'jquery-rails'
+  # Heroku recommends this
+  gem 'rails_12factor'
   # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
   gem 'turbolinks'
 end
