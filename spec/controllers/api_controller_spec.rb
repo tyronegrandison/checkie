@@ -12,6 +12,19 @@ RSpec.describe ApiController, :type => :controller do
       get :check_fraud
       expect(JSON.parse response.body).to include('status')
     end
+
+    context 'with test data' do
+      before :each do
+        expect {
+          Contractor.import_xml 'spec/fixtures/osha-compliance-100.xml'
+        }.to change(Contractor, :count).by(100)
+      end
+
+      it 'returns "status: found" when passed a valid name' do
+        get :check_fraud, :name => 'CARPET MASTERS'
+        expect(JSON.parse response.body).to eq({'status' => 'non_compliant'})
+      end
+    end
   end
 
 end
