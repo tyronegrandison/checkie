@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>Checkie - Tool for Fraud Detection for Federal Contractors</title>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script>src="js/script.js"</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -38,7 +39,7 @@
 <div class="box">
 	<div class="container">
 		<div class="row clearfix">
-			<div class="col-md-12 column">
+			<div class="col-md-9 column">
 			<h2>Welcome to Checkie.</h2>
 				<h3>
 					Please enter the name, city, and state listed on the invoice.
@@ -47,7 +48,13 @@
 		</div>
 		<br />
 		<div class="row clearfix">
-			<div class="col-md-5 column">
+			<div class="col-md-5 column" id="summary">
+				<div id="response_text"></div>
+				<div class="form-group" id="back_button">
+					<button type="submit" class="btn btn-default" onClick='go_back()'>Check Another Vendor</button>
+				</div>
+			</div>
+			<div class="col-md-5 column" id="input_box">
 				<form class="form-horizontal" id="searchForm" role="form">
 					<div class="form-group">
 						 <label for="inputEmail3" class="col-sm-2 control-label">Name</label>
@@ -74,10 +81,10 @@
 					</div>
 				</form>
 			</div>
-			<div class="col-md-4 column">
+			<div class="col-md-2 column">
 				<img alt="140x140" id = "default" src="http://lorempixel.com/140/140/">
 				<img class="response" id="found" alt="140x140" src="http://www.wpclipart.com/sign_language/thumbs_up_large.png">
-				<img class="response" id="not_found" alt="140x140" src="http://upload.wikimedia.org/wikipedia/commons/a/aa/Empty_set.svg">
+				<img class="response" id="not_found" alt="140x140" src="http://monkee-boy.com/blog/wp-content/uploads/2014/05/question-mark.jpg">
 				<img class="response" id="non_compliant" alt="140x140" src="http://www.copower.prosynergy.org/index_clip_image003.gif">
 			</div>
 		</div>
@@ -90,39 +97,9 @@
 			</div>
 		</div>
 	</div>
-
-<script type="text/javascript">
-
-        $("#searchForm").submit(function(event) {
-          /* stop form from submitting normally */
-          event.preventDefault();
-          $('.response').hide();
-
-  				var promise = jQuery.ajax(
-  				{
-  					url: "/api/am_i_a_fraud",
-  					data: {name: $("#name")[0].value, city: $("#city")[0].value, state: $("#state")[0].value}
-  				});
-
-          promise.success(
-	          function(data) {  
-	          	console.log(data);                    
-	            if ('found' == data.status) {
-	              $('#default').hide();
-	              $('#found').show();
-	            }
-	            else if ('not_found' == data.status) {
-	              	$('#default').hide();
-	              	$('#not_found').show();
-	            }
-	            else if ('non_compliant' == data.status) {
-	              	$('#default').hide();
-	              	$('#non_compliant').show();
-	            	}
-	           }
-          )
-        });
-</script>
+</div>
+<div id="footer" class="col-md-12 column">
+	<h3 id="attr">Powered by data from the USCIS and data.gov</h3>
 </div>
 </body>
 </html>
