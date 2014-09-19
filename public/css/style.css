@@ -1,0 +1,16 @@
+body {
+	background-image: url('img1.jpg');
+	margin-top: 25px;
+	margin-left: 90px;
+	margin-right: 500px;
+}
+
+.box {
+	background-color: white;
+}
+
+.response {
+	display: none;
+	height: 140px;
+	width: 140px;
+}
