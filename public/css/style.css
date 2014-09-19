@@ -21,14 +21,11 @@ body {
 }
 
 #back_button {
-	/*margin-bottom: 50px;*/
 	margin-top: 25px;
 	margin-bottom: 25px;
 }
 
-/*#response_text {
-	display:none;
-}*/
+
 
 #footer {
 	width:100%;
@@ -39,7 +36,3 @@ body {
 	color: white;
 	text-align: center;
 }
-
-/*#attr {
-	font-color: white;
-}*/
