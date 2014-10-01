@@ -16,6 +16,10 @@ gem 'coffee-rails', '~> 4.0.0', require: false
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0', require: false
+
+# https://rpm.newrelic.com/accounts/782186/
+gem 'newrelic_rpm'
+
 # bundle exec rake doc:rails generates the API under doc/api.
 group :doc do
   gem 'sdoc', '~> 0.4.0', require: false
